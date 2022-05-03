@@ -1,0 +1,2 @@
+This is the Python Program in which using Python Library "opencv-python", we can convert image into pencil sketch, gray scale image, blurred image and many more.
+All you have to do is to upload image of your choice and see the magic within seconds. 
